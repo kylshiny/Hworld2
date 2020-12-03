@@ -1,2 +1,2 @@
 # Read me file
-this is a redme, even though it aint useful.
+this is a readme file, even though it aint useful.
